@@ -76,14 +76,14 @@ Visit the [official website](http://arcticicestudio.com/northem) (actually under
 
 
 ### Version
-[`0.0.0`](https://github.com/arcticicestudio/northem-dark-intellij-idea-syntax/releases/latest)
+[`0.1.0`](https://github.com/arcticicestudio/northem-dark-intellij-idea-syntax/releases/latest)
 
 IntelliJ IDEA Community Edition: `15.0.x`, `14.1.x`
 
 For older versions check out the [GitHub Repository](https://github.com/arcticicestudio/northem-dark-intellij-idea-syntax) or [official website](http://arcticicestudio.com/northem) (actually under construction).
 
 ### Changelog
-[`0.0.0`](CHANGELOG.md)
+[`0.1.0`](CHANGELOG.md)
 
 ### Development
 Please report bugs and suggestions for improvement/language support to the [issuetracker](https://github.com/arcticicestudio/northem-dark-intellij-idea-syntax/issues).
